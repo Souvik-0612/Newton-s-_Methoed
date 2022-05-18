@@ -1,1 +1,1 @@
-# Newton-s-_Methoed
+# Numerical analysis
